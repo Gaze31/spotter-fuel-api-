@@ -96,7 +96,3 @@ at least one, the fuel-cost arithmetic by hand, the no-feasible-route
 error path, and (via mocking) that the routing API is called exactly
 once per request - directly verifying one of the stated requirements.
 
-## Loom
-
-TODO: link here once recorded. 5 min max - Postman demo + a walkthrough
-of services/fuel_optimizer.py, since that's the part worth explaining.
